@@ -33,3 +33,8 @@ https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=
 - 객관식: 11556
 - 단답형: 1796
 - 서술형: 1934
+
+# 4. 전처리 방법
+- 의료 FAQ 데이터이기 때문에, Question과 Answer만 추출
+    - Question: 노이즈 처리, 토크나이징, 불용어처리 진행
+    - Answer: 핵심이 되는 단어만 분리
