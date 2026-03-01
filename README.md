@@ -29,7 +29,7 @@ https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=
 - 의료법규: 129
 - 기타: 2258
   
-### 3-2-2. q_type
+### 3-2-2. 질문유형(q_type)
 - 객관식: 11556
 - 단답형: 1796
 - 서술형: 1934
