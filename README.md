@@ -1,5 +1,5 @@
 # 1. 데이터명
-언어 학습 애플리케이션 '듀오링고(Duolingo)'의 구글 플레이스토어(Google Playstore) 리뷰 데이터셋
+언어 학습 애플리케이션 '듀오링고(Duolingo)'의 구글 플레이스토어(Google Playstore) 리뷰 데이터셋(02, 03)
 
 # 2. 출처
 https://play.google.com/store/apps/details?id=com.duolingo
